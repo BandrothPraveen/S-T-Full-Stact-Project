@@ -1,1 +1,1 @@
-# S-T-Full-Stact-Project
+# S-T-Full-Stack-Project
